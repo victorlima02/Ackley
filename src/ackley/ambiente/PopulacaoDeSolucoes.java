@@ -24,7 +24,7 @@
 
 package ackley.ambiente;
 
-import ic.ce.populacional.Ambiente;
+import ic.ce.base.Ambiente;
 import ic.ce.populacional.PopulacaoOrdenada;
 
 

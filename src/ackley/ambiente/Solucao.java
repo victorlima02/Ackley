@@ -24,7 +24,7 @@
 package ackley.ambiente;
 
 
-import ic.ce.populacional.seres.binarios.SerBinario;
+import ic.ce.seres.binarios.SerBinario;
 
 /**
  *

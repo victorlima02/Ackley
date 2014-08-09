@@ -25,8 +25,8 @@ package ackley.operadores;
 
 
 import ackley.ambiente.Solucao;
-import ic.ce.populacional.seres.binarios.GeradorBinario;
-import ic.ce.populacional.seres.binarios.LocusBinario;
+import ic.ce.seres.binarios.GeradorBinario;
+import ic.ce.seres.binarios.LocusBinario;
 import java.util.List;
 
 /**

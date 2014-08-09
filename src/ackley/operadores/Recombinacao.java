@@ -24,8 +24,8 @@
 package ackley.operadores;
 
 import ackley.ambiente.Solucao;
-import ic.ce.populacional.Caracteristica;
-import ic.ce.populacional.seres.binarios.recombinadores.RecombinadorBinario;
+import ic.ce.base.Caracteristica;
+import ic.ce.seres.binarios.recombinadores.RecombinadorBinario;
 import java.util.ArrayList;
 import java.util.List;
 

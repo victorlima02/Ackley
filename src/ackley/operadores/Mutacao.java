@@ -2,7 +2,7 @@
 package ackley.operadores;
 
 import ackley.ambiente.Solucao;
-import ic.ce.populacional.seres.binarios.mutadores.MutadorBinario;
+import ic.ce.seres.binarios.mutadores.MutadorBinario;
 
 /**
  *
